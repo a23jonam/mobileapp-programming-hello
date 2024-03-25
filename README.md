@@ -1,9 +1,11 @@
 
 # Rapport
 
-**Skriv din rapport här!**
+Välkomstmeddelandet och toolbaren har ändrats
+till andra strings.
 
-_Du kan ta bort all text som finns sedan tidigare_.
+En screenshot på appen har även tagits och
+lagts till i projektet.
 
 ## Följande grundsyn gäller dugga-svar:
 
